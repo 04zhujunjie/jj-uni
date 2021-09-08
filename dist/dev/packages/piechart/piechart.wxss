@@ -1,0 +1,16 @@
+
+.canvasbgView.data-v-6f7c625b {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	position: relative;
+}
+.canvasView.data-v-6f7c625b {
+	background-color: transparent;
+	position: absolute;
+}
+
