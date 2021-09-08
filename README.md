@@ -1,5 +1,5 @@
 
-##效果图
+## 效果图
 ![image](https://github.com/04zhujunjie/jj-uni/blob/main/screenshot/jj-uni.gif)
 
 ## Project setup
